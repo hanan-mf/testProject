@@ -15,7 +15,7 @@ public class MyProjectTest {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("This is a simple project to be upload to github");
+        System.out.println("Thifffs is a simple project to be upload to github");
         System.out.println("This is a simple project to be upload to github");
                                   
               
